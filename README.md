@@ -9,6 +9,6 @@ An AI / Cloud / Prediction-based AntiCheat.
 - Judgement System (When the player is detected cheating, the player is interrogated by the AI, and an announcement is realized to vote if the player will be banned or no)
 
 # W.I.P:
-- Prediction of moves, actions or combat of the plyers. Example: If the player wants to kill another player or the player wants to build something.
+- Prediction of moves, actions or combat of the players. Example: If the player wants to kill another player or the player wants to build something.
 - Licence system.
 - An Artificial Player (Based on the stadistics of all players and AI Powered.)
