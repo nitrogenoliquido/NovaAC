@@ -1,7 +1,7 @@
 # NovaAC
 An AI / Cloud / Prediction-based AntiCheat.
 
-# Feautures:
+# Features:
 - Autocorrection of itself.
 - Gamemode Detection (SkyWars, BedWars, AC Test Server, Practice, etc.)
 - All Checks Powered by AI and a custom DeepLearning model.
