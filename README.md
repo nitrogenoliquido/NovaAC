@@ -42,7 +42,9 @@
 ---
 
 > Ready to take your server’s security to the next level?  
-> Dive into the [full documentation](#) (SOON DOCUMENTATION), share your feedback, or submit a pull request—let’s build the future of fair play together!  
+ 
+ # Discord Support
+> https://dsc.gg/novaac
 
 
 
