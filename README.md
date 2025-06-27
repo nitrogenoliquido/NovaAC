@@ -15,8 +15,6 @@
 - **Evolving Prediction Engine**  
   Powered by a custom deep learning model, it studies player physics and gameplay patterns to spot cheats before they disrupt the fun.
 
-- **Interactive Judgment System**  
-  When a suspicious action is detected, NovaAC lets players know, questions the accused via AI, and opens a quick in‑chat vote. Your community helps decide whether to ban or let them slide.
 
 ---
 
